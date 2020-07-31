@@ -21,7 +21,7 @@ Currently, the following devices/device types are supported:
 * [Generic BLE Devices which provide battery information](docs/devices/BatteryPoweredDevice.md)
 * [Xiaomi Mi Flora Plant Sensors](docs/devices/MiFlora.md)
 * [eQ-3 Eqiva BLUETOOTH® Radiator Thermostats](docs/devices/EqivaThermostat.md)
-* [Xiaomi Mi Bluetooth Temperature and Humidity Sensor](docs/devices/MiThermometer.md)
+* [Xiaomi Mi Bluetooth Temperature and Humidity Sensor](docs/devices/MiHygrothermographDevice.md)
 
 _You can click on the device to jump to its documentation._
 
