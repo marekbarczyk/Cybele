@@ -10,8 +10,13 @@ Technical details can be found here: [https://github.com/hannseman/homebridge-mi
   "type": "MiHygrothermographDevice",
   "friendlyName": "Xiaomi Mi Bluetooth Temperature and Humidity Sensor",
   "mac": "FF:FF:FF:FF:FF:FF"
+  "publishInterval": 60000
 }
 ```
+
+`publishInterval`  in milliseconds
+
+
 ## MQTT
 
 #### Autoconfig
